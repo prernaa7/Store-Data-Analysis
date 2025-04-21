@@ -1,28 +1,33 @@
 # Store-Data-Analysis
+An interactive Excel dashboard to analyze e-commerce performance by month, channel, category, and customer demographics.
 
-An interactive Excel dashboard for analyzing e-commerce sales across months, channels, categories, and customer demographics.
+## Features
 
-## Key Features
+- Orders vs Sales (Monthly)  
+- Sales by Gender, Age Group & State  
+- Order Status & Channel Breakdown  
+- Interactive Filters: Month, Channel, Category
 
-- Orders vs Sales (Monthly)
-- Sales by Gender, Age & State
-- Order Status Breakdown
-- Sales by Channel
-- Slicers for dynamic filtering (Month, Channel, Category)
+## Pivot Tables
 
-## Tools Used
+- Monthly Sales & Orders  
+- Gender-wise Sales  
+- Order Status  
+- Top States  
+- Age vs Gender  
+- Channel Performance
 
-- Microsoft Excel
-- Pivot Tables & Charts
+##  Data Workflow
+
+- **Cleaning:** Removed blanks, fixed formats  
+- **Processing:** Added Month & Age Group columns  
+- **Dashboard:** Pivot Tables, Charts, Slicers
+
+## Tools
+
+- Microsoft Excel  
+- Pivot Tables & Charts  
 - Slicers
-- Data Cleaning
-
-## Sections
-
-- Data Cleaning  
-- Data Processing  
-- Dashboard Creation  
-- Insights & Next Steps  
 
 ## Usage
 
